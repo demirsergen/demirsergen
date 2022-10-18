@@ -6,8 +6,8 @@ I'm a self-taught Web Developer specializing in front-end development. I thoroug
 
 ## Skills and Experience
 
-* ⚛️ React
-* 💻 JS / HTML / CSS
+* ⚛️ React, Next JS
+* 💻 CSS, Sass, Tailwind CSS
 * 🔥 Firebase
 
 - 🔭 I’m currently working on improving my skills. 
