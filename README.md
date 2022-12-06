@@ -2,7 +2,7 @@
 #### Web Developer
 ![Web Developer](https://pbs.twimg.com/profile_banners/1257279753700233216/1652814117/1500x500)
 
-I'm a self-taught Web Developer specializing in front-end development. I thoroughly enjoy learning new technologies and having a little bit of a challenge motivates me. I do my best to become a better version of myself every day. You can find me on twitter at https://twitter.com/sergenddemir.
+Self-taught Web Developer specializing in front-end development. Thoroughly enjoy learning new technologies and challenges. Aim to become a better version of myself every day. You can find me on twitter at https://twitter.com/sergenddemir.
 
 ## Skills and Experience
 
@@ -11,7 +11,7 @@ I'm a self-taught Web Developer specializing in front-end development. I thoroug
 * 🔥 Firebase
 
 - 🔭 I’m currently working on improving my skills. 
-- 🌱 I’m currently learning Redux. 
+- 🌱 I’m currently learning TypeScript. 
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I know three languages and I've lived in 5 different countries.  
 
