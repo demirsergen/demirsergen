@@ -10,7 +10,7 @@ Web Developer specializing in front-end development. Thoroughly enjoy learning n
 * 💻 CSS, Sass, Tailwind CSS
 * 🔥 Firebase
 
-- 🔭 I’m currently working on improving my skills. 
+- 🔭 I’m currently working on Advanced React course.
 - 🌱 I’m currently learning TypeScript. 
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I know three languages and I've lived in 5 different countries.  
