@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sergen Demir.
-#### Web Developer
-![Web Developer](https://pbs.twimg.com/profile_banners/1257279753700233216/1652814117/1500x500)
+#### Frontend Web Developer
+![Frontend Web Developer](https://pbs.twimg.com/profile_banners/1257279753700233216/1652814117/1500x500)
 
 Web Developer specializing in frontend development. Thoroughly enjoy learning new technologies and challenges. Aim to become a better version of myself every day. You can find me on twitter at https://twitter.com/sergenddemir.
 
