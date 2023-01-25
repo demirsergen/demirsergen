@@ -13,7 +13,7 @@ Web Developer specializing in frontend development. Thoroughly enjoy learning ne
 - 🔭 I’m currently working on Advanced React course.
 - 🌱 I’m currently learning TypeScript. 
 - 😄 Pronouns: he/him. 
-- ⚡ Fun fact: I know three languages and I've lived in 5 different countries.  
+- ⚡ Fun fact: I know three languages and have lived in 5 different countries.  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/demirsergen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sergendemir//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/sergenddemir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.sergendemir.com)  
