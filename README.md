@@ -6,8 +6,8 @@ Web Developer specializing in frontend development. Thoroughly enjoy learning ne
 
 ## Skills and Experience
 
-* ⚛️ React, Next JS
-* 💻 CSS, Sass, Tailwind CSS
+* ⚛️ React, Next JS, Gatsby JS
+* 💻 CSS, Sass, Tailwind CSS, Styled Components
 * 🔥 Firebase
 
 - 🔭 I’m currently working on Advanced React course.
