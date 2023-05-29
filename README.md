@@ -11,7 +11,7 @@ Web Developer specializing in frontend development. Thoroughly enjoy learning ne
 * 🔥 Firebase
 
 - 🔭 I’m currently working on AI-powered apps to help me be more productive.
-- 🌱 I’m currently learning TypeScript. 
+- 🌱 I’m currently learning TensorFlow and Machine Learning Algorithms. 
 - 😄 Pronouns: he/him. 
 - ⚡ Fun fact: I know three languages and have lived in 5 different countries.  
 
