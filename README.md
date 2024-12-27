@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Sergen Demir.
 #### Software Developer
-![Software Developer](https://pbs.twimg.com/profile_banners/1257279753700233216/1652814117/1500x500)
 
 Software Developer specializing in frontend development. Thoroughly enjoy learning new technologies and concepts. You can find me on twitter at https://twitter.com/sergenddemir.
 
